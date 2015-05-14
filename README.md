@@ -1,9 +1,2 @@
 # devitawinardi
-public class devita{
-  public static void main(String[] args){
-    System.out.println("Hello World");
-  
-  }
-
-
-}
+Halo halo, ini Dwi Devitasari :D
